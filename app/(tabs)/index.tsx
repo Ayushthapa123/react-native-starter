@@ -20,7 +20,7 @@ export default function Index() {
   return (
     <>
       <Container>
-        <Text className="my-4 text-2xl font-semibold text-primary">
+        <Text className="my-4 text-5xl font-semibold text-primary">
           {t('greeting')}
         </Text>
         <Button
